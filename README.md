@@ -40,9 +40,9 @@ Ele te dará acesso ao terminal interativo do container criado pelo compose, que
 5. Instale as dependências [Caso existam] com `npm install`
 
 ## Fontes de consultas:
-* [NodeJs.org](https://nodejs.org/en/docs/)
-* [Docker.com](https://docs.docker.com/)
-* [Mysql.com](https://dev.mysql.com/doc/)
+* [NodeJs](https://nodejs.org/en/docs/)
+* [Docker](https://docs.docker.com/)
+* [Mysql](https://dev.mysql.com/doc/)
 
 ## Direitos Autorais:
 Este projeto foi desenvolvido para fins de aprendizado por Lucas Coelho. É permitido baixar ou clonar o repositório para fins de estudo, porém não é permitida a publicação de cópias totais ou parciais do mesmo. Esta isenção de responsabilidade não abrange bibliotecas e dependências, que estão sujeitas às suas respectivas licenças.
