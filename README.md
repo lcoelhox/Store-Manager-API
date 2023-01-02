@@ -19,6 +19,7 @@ Projeto desenvolvido em NodeJs onde criei uma API RESTful utilizando a arquitetu
 2. Certifique-se que o node está na versão 16 ou superior, com comando: `node -v`
 3. Se não estiver na versão 16 basta usar o comando: `nvm use 16`
 4. Em seguida o comando: `npm install`
+5. Por ultimo para ver a aplicação rodando: `npm start`
 
 ## Como testar com Docker:
 1. Clone o repositório `git@github.com:lcoelhox/Store-Manager-Project.git`
@@ -37,7 +38,9 @@ Opção 1: Use o comando `docker-compose run node npm test`, ou para acessar o c
 Opção 2: Use o comando `docker exec -it store_manager bash` e siga o passo abaixo.
 
 Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
+
 5. Instale as dependências [Caso existam] com `npm install`
+6. Por ultimo para ver a aplicação rodando: `npm start`
 
 ## Fontes de consultas:
 * [NodeJs](https://nodejs.org/en/docs/)
