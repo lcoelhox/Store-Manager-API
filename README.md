@@ -29,9 +29,9 @@ Projeto desenvolvido em NodeJs onde criei uma API RESTful utilizando a arquitetu
 
 4. Rode os serviços node e db com o comando: `docker-compose up -d`.
 
-Lembre-se de parar o mysql se estiver usando localmente na porta padrão (3306), ou adapte, caso queria fazer uso da aplicação em containers;
-Esses serviços irão inicializar um container chamado store_manager e outro chamado store_manager_db;
-A partir daqui você pode rodar o container store_manager via CLI ou abri-lo no VS Code.
+- Lembre-se de parar o mysql se estiver usando localmente na porta padrão (3306), ou adapte, caso queria fazer uso da aplicação em containers;
+- Esses serviços irão inicializar um container chamado store_manager e outro chamado store_manager_db;
+- A partir daqui você pode rodar o container store_manager via CLI ou abri-lo no VS Code.
 
 Opção 1: Use o comando `docker-compose run node npm test`, ou para acessar o container e executar lá:
 
