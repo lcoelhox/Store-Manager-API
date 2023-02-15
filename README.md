@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do Projeto Store Manager!
+# Boas-vindas ao repositório do Projeto Store Manager! :credit_card: :dollar:
 
 ## Sobre
 Projeto desenvolvido em NodeJs onde criei uma API RESTful utilizando a arquitetura MSC (model-service-controller), e criei um sistema de gerenciamento de vendas no formato dropshipping onde foi possivel criar, visualizar, deletar e atualizar produtos e vendas. Utilizei o banco de dados MySQL para a gestão de dados. Além disso desenvolvi tests em TDD, e subi o projeto em Docker.
